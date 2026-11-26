@@ -44,7 +44,7 @@ This project focuses on demonstration the use of an API to automate the upload, 
 
 ## Improvement Ideas
 - Adding AI-based data extraction (for image based PDFs)
-- extraction of data in different languages (currently only in German)
+- Extraction of data in different languages (currently only in German)
 - Cloud deployment
 - Improving validation and categorization rules
 - Adding fuctionalities like: get average/mean cost, delete latest, get total cost
